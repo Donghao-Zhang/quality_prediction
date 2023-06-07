@@ -33,7 +33,7 @@ python main.py --use_path --bidirectional --path_layer 1 --path_attention_hidden
 
 ## Citation
 
-If you found this list useful, please consider citing this paper:
+If you found this code useful, please consider citing this paper:
 
 ```
 @article{zhang2021path,
