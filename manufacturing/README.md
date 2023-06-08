@@ -4,8 +4,7 @@ This repository contains code and models for the paper: [Path enhanced bidirecti
 
 ## Dataset
 
-The [MCMP dataset](https://www.kaggle.com/datasets/supergus/multistage-continuousflow-manufacturing-process?select=continuous_factory_process.csv) is released by [Liveline Technologies](https://www.liveline.tech/) on [Kaggle](https://www.kaggle.com/). This dataset was collected from an
-actual production line near Detroit, MI, USA. The production line is a high-speed, continuous manufacturing process with parallel and series stages so that the dataset is a proper one to demonstrate the validity of PGAT. The goal of this dataset is to predict certain properties of the line’s output from the various input data. 
+The [MCMP dataset](https://www.kaggle.com/datasets/supergus/multistage-continuousflow-manufacturing-process?select=continuous_factory_process.csv) is released by [Liveline Technologies](https://www.liveline.tech/) on [Kaggle](https://www.kaggle.com/). This dataset was collected from an actual production line near Detroit, MI, USA. The production line is a high-speed, continuous manufacturing process with parallel and series stages so that the dataset is a proper one to demonstrate the validity of PGAT. The goal of this dataset is to predict certain properties of the line’s output from the various input data. 
 
 ## Requirements
 
